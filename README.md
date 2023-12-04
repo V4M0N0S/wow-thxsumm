@@ -1,4 +1,4 @@
-# [World of Warcraft Addon] THXSumm!
+# [World of Warcraft Addon] THXSumm
 This is a simple little addon that should take away the most tedious task in WoW: 
 
 Saying thank you if someone summoned you!
