@@ -4,7 +4,7 @@ This is a simple little addon that should take away the most tedious task in WoW
 Saying thank you if someone summoned you!
 
 ## Install via Curseforge
-Just install via Curseforge Client: https://www.curseforge.com/wow/addons/thxsumm
+Just install via Curseforge Client: https://www.curseforge.com/wow/addons/v-thxsumm
 
 ## Contributing
 🔥 Pull requests are welcome. 
