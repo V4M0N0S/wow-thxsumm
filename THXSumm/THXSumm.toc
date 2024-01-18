@@ -1,7 +1,7 @@
 ## Title: |cffffb347[V]|r THXSumm |cffffb347by V4M0N0S|r
 ## Notes: Send automatically "Thanks for summ!" if someone summons you.
 ## X-Website: https://github.com/V4M0N0S/wow-thxsumm
-## Interface: 100200
+## Interface: 100205
 ## LoadOnDemand: 0
 ##
 ## Version: 1.0.1

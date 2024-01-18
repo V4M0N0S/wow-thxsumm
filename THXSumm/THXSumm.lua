@@ -5,11 +5,11 @@ frame:RegisterEvent("CONFIRM_SUMMON")
 frame:SetScript("OnEvent", function(self, event, summonType, summoner)
     if event == "CONFIRM_SUMMON" then
         if IsInRaid() then
-            SendChatMessage("THX summ!", "RAID")
+            SendChatMessage("Thanks for summ!", "RAID")
         elseif IsInGroup() then
-            SendChatMessage("THX summ!", "PARTY")
+            SendChatMessage("Thanks for summ!", "PARTY")
         else
-            SendChatMessage("THX summ!", "SAY")
+            SendChatMessage("Thanks for summ!", "SAY")
         end
     end
 end)
